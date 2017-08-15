@@ -1,3 +1,21 @@
 <resources>
   <string name="app_name">Demo Expandable TextView</string>
+  <string name="sample_long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec ornare dolor. Ut odio mi, interdum et nisl eget, vulputate euismod mi. Cras in sodales dui. Phasellus id erat vel ligula lobortis imperdiet at vitae purus. Proin quis sem mi. Nulla maximus, sapien sit amet semper molestie, libero ex maximus justo, ut eleifend justo ante vitae libero. Maecenas varius odio eu metus tincidunt, quis imperdiet urna tempor. Nunc sit amet risus maximus, vestibulum elit vel, ultrices magna. Aenean a vulputate mauris. Quisque eget lacinia orci. Sed sagittis, risus quis scelerisque elementum, urna neque ullamcorper dolor, vel aliquet diam felis ut diam. Curabitur vehicula, odio convallis faucibus accumsan, dui nisl consectetur lacus, nec feugiat purus justo a purus. Nunc vehicula a ligula eu efficitur. Mauris eu dignissim risus. Cras vitae elit faucibus, fermentum metus a, aliquam tellus.</string>
+  <string name="sample_list_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Cras volutpat lectus in magna sagittis, in tempus nulla facilisis.
+Cras non orci ut purus ultrices porta.
+Integer ut nulla fringilla, commodo purus et, rutrum eros.
+Proin id metus vitae augue sagittis vulputate elementum sit amet nunc.
+Aenean ornare velit sed dictum blandit.
+Fusce eget ligula sed eros lacinia imperdiet.
+Proin dictum nunc et venenatis rutrum.
+Mauris tincidunt metus at hendrerit suscipit.
+Etiam vel nunc sit amet urna lacinia rutrum eget vitae elit.
+Sed accumsan nisi vel dapibus accumsan.
+Integer ac arcu ornare, consectetur elit vitae, suscipit nulla.
+Morbi condimentum sapien in massa faucibus vulputate.
+Nulla eu libero fermentum velit venenatis mattis.
+Pellentesque ullamcorper lorem eu libero rhoncus venenatis.
+Mauris iaculis elit ac nunc facilisis porttitor.
+Phasellus pulvinar elit sit amet lacus sollicitudin, eu commodo mauris cursus.</string>
 </resources>
