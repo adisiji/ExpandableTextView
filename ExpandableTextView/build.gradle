@@ -30,7 +30,7 @@ ext {
   siteUrl = 'https://github.com/adisiji/ExpandableTextView'
   gitUrl = 'https://github.com/adisiji/ExpandableTextView.git'
 
-  libraryVersion = '0.0.1c'
+  libraryVersion = '0.0.1d'
 
   developerId = 'neobyte'
   developerName = 'Adi Darmawan'
