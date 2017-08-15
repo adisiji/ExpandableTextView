@@ -11,7 +11,7 @@
       android:id="@+id/tv_expand_text_view_animation"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:text="isinya apa aja boleh"
+      android:text="Lorem Ipsum"
       android:textSize="14sp"
       />
 
