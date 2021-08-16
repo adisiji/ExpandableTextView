@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoExpandableTextView.iml" filepath="$PROJECT_DIR$/DemoExpandableTextView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExpandableTextView/ExpandableTextView.iml" filepath="$PROJECT_DIR$/ExpandableTextView/ExpandableTextView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpandableTextView.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpandableTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpandableTextView/ExpandableTextView.ExpandableTextView.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpandableTextView/ExpandableTextView.ExpandableTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/ExpandableTextView.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/ExpandableTextView.sample.iml" />
     </modules>
   </component>
 </project>
