@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <declare-styleable name="ExpandableTextView">
-    <attr format="integer" name="etv_expandLines"/>
-    <attr format="reference" name="etv_shrinkBitmap"/>
-    <attr format="reference" name="etv_expandBitmap"/>
-    <attr format="color" name="etv_textStateColor"/>
-    <attr format="color" name="etv_textContentColor"/>
-    <attr format="dimension" name="etv_textContentSize"/>
-    <attr format="string" name="etv_textShrink"/>
-    <attr format="string" name="etv_textExpand"/>
-    <attr format="integer" name="etv_animationTime"/>
-    <attr format="boolean" name="etv_showLine"/>
-  </declare-styleable>
+    <declare-styleable name="ExpandableTextView">
+        <attr name="etv_expandLines" format="integer" />
+        <attr name="etv_shrinkBitmap" format="reference" />
+        <attr name="etv_expandBitmap" format="reference" />
+        <attr name="etv_textStateColor" format="color" />
+        <attr name="etv_textContentColor" format="color" />
+        <attr name="etv_textContentSize" format="dimension" />
+        <attr name="etv_textShrink" format="string" />
+        <attr name="etv_textExpand" format="string" />
+        <attr name="etv_animationTime" format="integer" />
+        <attr name="etv_showLine" format="boolean" />
+    </declare-styleable>
 </resources>
